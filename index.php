@@ -7,6 +7,6 @@
     <title>Git</title>
 </head>
 <body>
-    <h1>Git test www</h1>
+    <h1>Git</h1>
 </body>
 </html>
